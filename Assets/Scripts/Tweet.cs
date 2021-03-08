@@ -35,7 +35,10 @@ public class Tweet : MonoBehaviour
 
         Tweets.Add(Instantiate( tweet,new Vector3(0,0,0),Quaternion.identity,Parent.transform ));
 
-        tweetber.verticalNormalizedPosition = 1.01f;
+      
 
+        tweetber.verticalNormalizedPosition = 1.1f;
+
+        
     }
 }
