@@ -6,7 +6,7 @@ using UnityEngine.UI;
 public class Tweet : MonoBehaviour
 {
 
-    [SerializeField] GameObject tweet;
+    [SerializeField] GameObject[] tweet;
 
     [SerializeField] GameObject Parent;
 
@@ -14,7 +14,7 @@ public class Tweet : MonoBehaviour
 
     [SerializeField] ScrollRect tweetber;
 
-    List<GameObject> Tweets = new List<GameObject>();
+    [SerializeField]List<GameObject> Tweets = new List<GameObject>();
     // Start is called before the first frame update
     void Start()
     {
@@ -33,9 +33,22 @@ public class Tweet : MonoBehaviour
     public void OnClickTweetButton()
     {
 
-        Tweets.Add(Instantiate( tweet,new Vector3(0,0,0),Quaternion.identity,Parent.transform ));
+        int randnum = Random.Range(0, tweet.Length);
+        Debug.Log(randnum + "番目を生成");
+        if(Tweets.Count >= 5)
+        {
 
-      
+            Destroy(Tweets[0]);
+
+            Tweets.RemoveAt(0);
+
+
+        }
+
+
+        Tweets.Add(Instantiate( tweet[randnum],new Vector3(0,0,0),Quaternion.identity,Parent.transform ));
+
+        
 
         tweetber.verticalNormalizedPosition = 1.1f;
 

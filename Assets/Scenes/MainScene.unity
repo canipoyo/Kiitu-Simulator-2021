@@ -525,18 +525,18 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 896764823}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 1, w: 0}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0.40154555, y: 0.40154555, z: 0.40154555}
   m_Children: []
   m_Father: {fileID: 1321329349}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 180}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 161.99, y: -0.000030517578}
+  m_AnchoredPosition: {x: -11, y: -0.000030517578}
   m_SizeDelta: {x: 801.866, y: 0}
-  m_Pivot: {x: 0.5, y: 1}
+  m_Pivot: {x: 1, y: 1}
 --- !u!114 &896764825
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -554,7 +554,7 @@ MonoBehaviour:
     m_Right: 0
     m_Top: 0
     m_Bottom: 0
-  m_ChildAlignment: 4
+  m_ChildAlignment: 7
   m_Spacing: 2.88
   m_ChildForceExpandWidth: 1
   m_ChildForceExpandHeight: 1
@@ -574,7 +574,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebbe83a3e4731614d8e26a28ca8486d8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  tweet: {fileID: 6408811125277546913, guid: c48772504702af04cb5e9da2fd8829ec, type: 3}
+  tweet:
+  - {fileID: 1873653323681369423, guid: fef34cc668108764da53cdf4c3d551d8, type: 3}
+  - {fileID: 947189271696940234, guid: 7462a7a18b0b9c44abee3dd87f10f16d, type: 3}
+  - {fileID: 4270831423380843836, guid: 5faec1a9bdbac054e9a42599a6ede273, type: 3}
+  - {fileID: 6408811125277546913, guid: c48772504702af04cb5e9da2fd8829ec, type: 3}
   Parent: {fileID: 896764823}
   tweetNum: {fileID: 104798504}
   tweetber: {fileID: 1367300192}
@@ -642,7 +646,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
   m_RaycastTarget: 1
   m_Maskable: 1
   m_OnCullStateChanged:
@@ -1258,7 +1262,7 @@ MonoBehaviour:
     m_SelectOnRight: {fileID: 0}
   m_Transition: 1
   m_Colors:
-    m_NormalColor: {r: 1, g: 1, b: 1, a: 0}
+    m_NormalColor: {r: 1, g: 1, b: 1, a: 0.8862745}
     m_HighlightedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 0}
     m_PressedColor: {r: 0.78431374, g: 0.78431374, b: 0.78431374, a: 0}
     m_SelectedColor: {r: 0.9607843, g: 0.9607843, b: 0.9607843, a: 0}
