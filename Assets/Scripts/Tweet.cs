@@ -10,11 +10,14 @@ public class Tweet : MonoBehaviour
 
     [SerializeField] GameObject Parent;
 
-    [SerializeField] Text tweetNum;
+   
 
     [SerializeField] ScrollRect tweetber;
 
     [SerializeField]List<GameObject> Tweets = new List<GameObject>();
+
+    [SerializeField]GameManager gameManager;
+    
     // Start is called before the first frame update
     void Start()
     {
@@ -24,9 +27,9 @@ public class Tweet : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        int tweetsnum = Tweets.Count;
+        
 
-        tweetNum.text = "ツイート数:" + tweetsnum + "ツイート";
+        
     }
 
 
@@ -48,7 +51,7 @@ public class Tweet : MonoBehaviour
 
         Tweets.Add(Instantiate( tweet[randnum],new Vector3(0,0,0),Quaternion.identity,Parent.transform ));
 
-        
+        gameManager.TweetNum += 1;
 
         tweetber.verticalNormalizedPosition = 1.1f;
 
