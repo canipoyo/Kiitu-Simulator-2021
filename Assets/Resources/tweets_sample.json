@@ -1,82 +1,64 @@
-[
-  {
-    "tweet": {
+{
+  "tweets": [
+    {
       "favorite_count": "1",
       "retweet_count": "0",
       "created_at": "Mon Oct 02 06:09:33 +0000 2017",
       "full_text": "テｂｒｔｆｖｃ"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "2",
       "retweet_count": "0",
       "created_at": "Thu Jul 27 02:54:53 +0000 2017",
       "full_text": "僕はいっちゃんラジ"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "5",
       "retweet_count": "1",
       "created_at": "Fri Jul 14 13:15:22 +0000 2017",
       "full_text": "は、初ツイートです。よ、よろしくお願いします。（不特定多数+α）"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "14",
       "retweet_count": "7",
       "created_at": "Wed Jul 12 03:46:44 +0000 2017",
       "full_text": "おっぱい"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "1",
       "retweet_count": "0",
       "created_at": "Sat Oct 07 08:57:06 +0000 2017",
       "full_text": "#せって打って出てきたものが今守りたいものなので世界って出てきたら貴方はイケメン \r\r設定\r\rえ？(困惑)"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "1",
       "retweet_count": "0",
       "created_at": "Sun Dec 24 03:06:24 +0000 2017",
       "full_text": "そろそろ戻します。"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "0",
       "retweet_count": "0",
       "created_at": "Sat Dec 23 02:03:30 +0000 2017",
       "full_text": "期間は1日とします。"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "0",
       "retweet_count": "0",
       "created_at": "Fri Dec 21 13:04:55 +0000 2018",
       "full_text": "やばい...圧倒的にツインテだわ...."
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "8",
       "retweet_count": "0",
       "created_at": "Fri Dec 21 12:04:31 +0000 2018",
       "full_text": "みりあちゃんに看護してもらうために両手骨折してくるわ。"
-    }
-  },
-  {
-    "tweet": {
+    },
+    {
       "favorite_count": "0",
       "retweet_count": "0",
       "created_at": "Fri Dec 21 12:01:50 +0000 2018",
       "full_text": "めちゃくちゃよしまるしててよき"
     }
-  }
-]
+  ]
+}
