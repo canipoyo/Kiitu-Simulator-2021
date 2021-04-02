@@ -1,258 +1,82 @@
 [
   {
     "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/7rmqRYcu9U",
-            "expanded_url": "https://shindanmaker.com/183608",
-            "display_url": "shindanmaker.com/183608",
-            "indices": ["39", "62"]
-          }
-        ]
-      },
-      "display_text_range": ["0", "62"],
-      "favorite_count": "2",
-      "id_str": "915506554069069824",
-      "truncated": false,
-      "retweet_count": "0",
-      "id": "915506554069069824",
-      "possibly_sensitive": false,
-      "created_at": "Wed Oct 04 09:19:06 +0000 2017",
-      "favorited": false,
-      "full_text": "診断してみたｗ\r\rチノをベッドに押し倒してみると、静かに服を脱ぎ始めました。\rhttps://t.co/7rmqRYcu9U",
-      "lang": "ja"
-    }
-  },
-  {
-    "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/xrleXHpVQ2",
-            "expanded_url": "https://twitter.com/sawasiro96/status/915187008292536320",
-            "display_url": "twitter.com/sawasiro96/sta…",
-            "indices": ["12", "35"]
-          }
-        ]
-      },
-      "display_text_range": ["0", "35"],
       "favorite_count": "1",
-      "id_str": "915218366679310337",
-      "truncated": false,
       "retweet_count": "0",
-      "id": "915218366679310337",
-      "possibly_sensitive": false,
-      "created_at": "Tue Oct 03 14:13:57 +0000 2017",
-      "favorited": false,
-      "full_text": "わかる人にはわかるｗｗ https://t.co/xrleXHpVQ2",
-      "lang": "ja"
-    }
-  },
-  {
-    "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "display_text_range": ["0", "7"],
-      "favorite_count": "1",
-      "id_str": "914734078871531520",
-      "truncated": false,
-      "retweet_count": "0",
-      "id": "914734078871531520",
       "created_at": "Mon Oct 02 06:09:33 +0000 2017",
-      "favorited": false,
-      "full_text": "テｂｒｔｆｖｃ",
-      "lang": "ja"
+      "full_text": "テｂｒｔｆｖｃ"
     }
   },
   {
     "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "display_text_range": ["0", "23"],
-      "favorite_count": "0",
-      "in_reply_to_status_id_str": "914474377709678593",
-      "id_str": "914476166903246848",
-      "in_reply_to_user_id": "896359510079451137",
-      "truncated": false,
-      "retweet_count": "0",
-      "id": "914476166903246848",
-      "in_reply_to_status_id": "914474377709678593",
-      "created_at": "Sun Oct 01 13:04:42 +0000 2017",
-      "favorited": false,
-      "full_text": "@NASA_KURANAMI かわいく頼むで～",
-      "lang": "ja",
-      "in_reply_to_user_id_str": "896359510079451137"
-    }
-  },
-  {
-    "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "display_text_range": ["0", "17"],
-      "favorite_count": "0",
-      "in_reply_to_status_id_str": "914474836902109184",
-      "id_str": "914475739755421696",
-      "in_reply_to_user_id": "896359510079451137",
-      "truncated": false,
-      "retweet_count": "0",
-      "id": "914475739755421696",
-      "in_reply_to_status_id": "914474836902109184",
-      "created_at": "Sun Oct 01 13:03:01 +0000 2017",
-      "favorited": false,
-      "full_text": "@NASA_KURANAMI 幼女",
-      "lang": "ja",
-      "in_reply_to_user_id_str": "896359510079451137"
-    }
-  },
-  {
-    "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "display_text_range": ["0", "17"],
-      "favorite_count": "0",
-      "in_reply_to_status_id_str": "914474377709678593",
-      "id_str": "914474727929921537",
-      "in_reply_to_user_id": "896359510079451137",
-      "truncated": false,
-      "retweet_count": "0",
-      "id": "914474727929921537",
-      "in_reply_to_status_id": "914474377709678593",
-      "created_at": "Sun Oct 01 12:58:59 +0000 2017",
-      "favorited": false,
-      "full_text": "@NASA_KURANAMI 少女",
-      "lang": "ja",
-      "in_reply_to_user_id_str": "896359510079451137"
-    }
-  },
-  {
-    "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": [
-          {
-            "url": "https://t.co/GamaZ9pPXs",
-            "expanded_url": "https://twitter.com/hijidora/status/913358412594814976",
-            "display_url": "twitter.com/hijidora/statu…",
-            "indices": ["31", "54"]
-          }
-        ]
-      },
-      "display_text_range": ["0", "54"],
       "favorite_count": "2",
-      "id_str": "913378221353136129",
-      "truncated": false,
       "retweet_count": "0",
-      "id": "913378221353136129",
-      "possibly_sensitive": false,
-      "created_at": "Thu Sep 28 12:21:52 +0000 2017",
-      "favorited": false,
-      "full_text": "本当に名曲ぞろい。映画思い出した。\rやっぱラブライブ最高だわ https://t.co/GamaZ9pPXs",
-      "lang": "ja"
-    }
-  },
-  {
-    "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "display_text_range": ["0", "9"],
-      "favorite_count": "2",
-      "id_str": "890405100849569792",
-      "truncated": false,
-      "retweet_count": "0",
-      "id": "890405100849569792",
       "created_at": "Thu Jul 27 02:54:53 +0000 2017",
-      "favorited": false,
-      "full_text": "僕はいっちゃんラジ",
-      "lang": "ja"
+      "full_text": "僕はいっちゃんラジ"
     }
   },
   {
     "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for Windows</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "display_text_range": ["0", "32"],
       "favorite_count": "5",
-      "id_str": "885850207174270977",
-      "truncated": false,
       "retweet_count": "1",
-      "id": "885850207174270977",
       "created_at": "Fri Jul 14 13:15:22 +0000 2017",
-      "favorited": false,
-      "full_text": "は、初ツイートです。よ、よろしくお願いします。（不特定多数+α）",
-      "lang": "ja"
+      "full_text": "は、初ツイートです。よ、よろしくお願いします。（不特定多数+α）"
     }
   },
   {
     "tweet": {
-      "retweeted": false,
-      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
-      "entities": {
-        "hashtags": [],
-        "symbols": [],
-        "user_mentions": [],
-        "urls": []
-      },
-      "display_text_range": ["0", "4"],
       "favorite_count": "14",
-      "id_str": "884982330267492353",
-      "truncated": false,
       "retweet_count": "7",
-      "id": "884982330267492353",
       "created_at": "Wed Jul 12 03:46:44 +0000 2017",
-      "favorited": false,
-      "full_text": "おっぱい",
-      "lang": "ja"
+      "full_text": "おっぱい"
+    }
+  },
+  {
+    "tweet": {
+      "favorite_count": "1",
+      "retweet_count": "0",
+      "created_at": "Sat Oct 07 08:57:06 +0000 2017",
+      "full_text": "#せって打って出てきたものが今守りたいものなので世界って出てきたら貴方はイケメン \r\r設定\r\rえ？(困惑)"
+    }
+  },
+  {
+    "tweet": {
+      "favorite_count": "1",
+      "retweet_count": "0",
+      "created_at": "Sun Dec 24 03:06:24 +0000 2017",
+      "full_text": "そろそろ戻します。"
+    }
+  },
+  {
+    "tweet": {
+      "favorite_count": "0",
+      "retweet_count": "0",
+      "created_at": "Sat Dec 23 02:03:30 +0000 2017",
+      "full_text": "期間は1日とします。"
+    }
+  },
+  {
+    "tweet": {
+      "favorite_count": "0",
+      "retweet_count": "0",
+      "created_at": "Fri Dec 21 13:04:55 +0000 2018",
+      "full_text": "やばい...圧倒的にツインテだわ...."
+    }
+  },
+  {
+    "tweet": {
+      "favorite_count": "8",
+      "retweet_count": "0",
+      "created_at": "Fri Dec 21 12:04:31 +0000 2018",
+      "full_text": "みりあちゃんに看護してもらうために両手骨折してくるわ。"
+    }
+  },
+  {
+    "tweet": {
+      "favorite_count": "0",
+      "retweet_count": "0",
+      "created_at": "Fri Dec 21 12:01:50 +0000 2018",
+      "full_text": "めちゃくちゃよしまるしててよき"
     }
   }
 ]
